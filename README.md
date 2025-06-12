@@ -10,3 +10,9 @@ This is my journey to improve Python skills by solving 5 coding problems every d
 - Fibonacci Series
 - Perfect Number Checker
 - GCD of Two Numbers.
+### ✅ Day 2 Programs:
+- Factorial of a Number
+- String to Integer Conversion
+- Area of a Rectangle
+- Common Elements from Two Lists
+- Merge Two Dictionaries
