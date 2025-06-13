@@ -16,3 +16,9 @@ This is my journey to improve Python skills by solving 5 coding problems every d
 - Area of a Rectangle
 - Common Elements from Two Lists
 - Merge Two Dictionaries
+ ### ✅ Day 3 Programs:
+- Check if Two Strings Are Anagram
+- Palindrome Checker (Text)
+- Character Frequency Counter
+- Wildcard Pattern Matching
+- Leap Year Checker
