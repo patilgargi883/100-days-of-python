@@ -22,3 +22,9 @@ This is my journey to improve Python skills by solving 5 coding problems every d
 - Character Frequency Counter
 - Wildcard Pattern Matching
 - Leap Year Checker
+###✅ Day 4 Programs:
+-Minimum Element in a List
+-Sum of Digits in a Number
+-Decimal to Binary Converter
+-Second Largest Element in a List
+-Check if a Number is Power of Two
